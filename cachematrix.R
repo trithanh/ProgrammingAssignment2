@@ -1,7 +1,7 @@
 ## These functions bellow calculates and caches the inverse of a matrix.
 
 
-## This function creates a special "matrix" object that can cach its inverse.
+## This function creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
